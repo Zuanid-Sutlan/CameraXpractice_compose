@@ -87,5 +87,9 @@ dependencies {
     // viewModel compose
     implementation("androidx.lifecycle:lifecycle-viewmodel-compose:2.6.2")
 
+    // image crop
+    implementation("com.vanniktech:android-image-cropper:4.5.0")
 
+    // navigation
+    implementation("androidx.navigation:navigation-compose:2.7.7")
 }
